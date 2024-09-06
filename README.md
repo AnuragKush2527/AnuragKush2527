@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ML Algorithms and TensorFlow.**
 
-- 👨‍💻 All of my projects are available at [https://AnuragKush2527.netlify.app/](https://AnuragKush2527.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://AnuragKush2527.netlify.app/](https://anuragkush2527.netlify.app/)
 
 - 💬 Ask me about **Programming, Problem Solving, C/C++, Python, JavaScript, ReactJS, MongoDB, NodeJS.**
 
