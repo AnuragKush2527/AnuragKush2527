@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **akush2503@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Y4tORA9Zh56IoM4JSuGo4pB_8vwlJPRl/view?usp=drive_link](https://drive.google.com/file/d/1Y4tORA9Zh56IoM4JSuGo4pB_8vwlJPRl/view?usp=drive_link)
+- 📄 Know about my experiences [(https://drive.google.com/file/d/1Y4tORA9Zh56IoM4JSuGo4pB_8vwlJPRl/view?usp=drive_link)](https://drive.google.com/file/d/1RbdQS46ACExSbcmA4hk9A2h5FxFXEmgV/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
