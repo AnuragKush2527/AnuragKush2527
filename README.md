@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anurag Kushwaha</h1>
 <h3 align="center">An enthusiastic individual with good problem solving skills and passion about learning new things.</h3>
 
-- 🔭 I’m currently working on [VibeSync](https://github.com/AnuragKush2527/Major-Project---VibeSync.git)
+- 🔭 I’m currently working on [[VibeSync](https://github.com/AnuragKush2527/Major-Project---VibeSync.git)](https://github.com/AnuragKush2527/VibeSync-3.0.git)
 
 - 🌱 I’m currently learning **ML Algorithms and TensorFlow.**
 
